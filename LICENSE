@@ -1,0 +1,5 @@
+Worlds includes code from the following projects, which have their own licenses:
+
+- [AFNetworking](https://github.com/AFNetworking/AFNetworking/blob/master/LICENSE) (for network requests) [MIT]
+- [Mantle](https://github.com/Mantle/Mantle/blob/master/LICENSE.md) (for object mapping) [MIT]
+- [SAMKeychain](https://github.com/soffes/SAMKeychain/blob/master/LICENSE) (for storing password safely in keychain) [MIT]
